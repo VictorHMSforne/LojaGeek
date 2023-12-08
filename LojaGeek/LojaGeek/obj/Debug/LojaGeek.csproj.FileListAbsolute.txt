@@ -1,0 +1,17 @@
+D:\Programação\Modulo 2\Emerson\LojaGeek\LojaGeek\bin\Debug\LojaGeek.exe.config
+D:\Programação\Modulo 2\Emerson\LojaGeek\LojaGeek\bin\Debug\LojaGeek.exe
+D:\Programação\Modulo 2\Emerson\LojaGeek\LojaGeek\bin\Debug\LojaGeek.pdb
+D:\Programação\Modulo 2\Emerson\LojaGeek\LojaGeek\obj\Debug\LojaGeek.csproj.AssemblyReference.cache
+D:\Programação\Modulo 2\Emerson\LojaGeek\LojaGeek\obj\Debug\LojaGeek.FrmPrincipal.resources
+D:\Programação\Modulo 2\Emerson\LojaGeek\LojaGeek\obj\Debug\LojaGeek.Properties.Resources.resources
+D:\Programação\Modulo 2\Emerson\LojaGeek\LojaGeek\obj\Debug\LojaGeek.csproj.GenerateResource.cache
+D:\Programação\Modulo 2\Emerson\LojaGeek\LojaGeek\obj\Debug\LojaGeek.csproj.CoreCompileInputs.cache
+D:\Programação\Modulo 2\Emerson\LojaGeek\LojaGeek\obj\Debug\LojaGeek.exe
+D:\Programação\Modulo 2\Emerson\LojaGeek\LojaGeek\obj\Debug\LojaGeek.pdb
+D:\Programação\Modulo 2\Emerson\LojaGeek\LojaGeek\obj\Debug\LojaGeek.FrmSplash.resources
+D:\Programação\Modulo 2\Emerson\LojaGeek\LojaGeek\bin\Debug\DBgeek.mdf
+D:\Programação\Modulo 2\Emerson\LojaGeek\LojaGeek\bin\Debug\DBgeek_log.ldf
+D:\Programação\Modulo 2\Emerson\LojaGeek\LojaGeek\obj\Debug\LojaGeek.FrmProdutos.resources
+D:\Programação\Modulo 2\Emerson\LojaGeek\LojaGeek\obj\Debug\LojaGeek.FrmCliente.resources
+D:\Programação\Modulo 2\Emerson\LojaGeek\LojaGeek\obj\Debug\LojaGeek.FrmVendas.resources
+D:\Programação\Modulo 2\Emerson\LojaGeek\LojaGeek\obj\Debug\LojaGeek.FrmTipoProduto.resources
